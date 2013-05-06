@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047459c5-9851-4096-9336-c9b4c7871616" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.groovy" afterPath="$PROJECT_DIR$/server.groovy" />
     </list>
     <ignored path="learnvertx.iws" />
@@ -64,7 +63,7 @@
       <file leaf-file-name="server.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="41" selection-start="388" selection-end="388" vertical-scroll-proportion="0.076174356">
+            <state line="10" column="23" selection-start="352" selection-end="352" vertical-scroll-proportion="0.06347863">
               <folding />
             </state>
           </provider>
@@ -409,7 +408,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="388" selection-end="388" vertical-scroll-proportion="0.076174356">
+        <state line="10" column="23" selection-start="352" selection-end="352" vertical-scroll-proportion="0.06347863">
           <folding />
         </state>
       </provider>

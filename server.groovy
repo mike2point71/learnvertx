@@ -8,7 +8,7 @@ vertx.createHttpServer().requestHandler { req ->
     }else {
         def pathChunks = req.path.tokenize("/")
         if(pathChunks.count{it}>1){
-
+            assert 1==2
         } else {
             logger.info "Only 1 pathChunk"
         }
