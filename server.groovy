@@ -3,7 +3,7 @@ vertx.createHttpServer().requestHandler { req ->
 
     logger.info "I am logging ${req.uri}"
     if(["/"].contains(req.uri)){
-        req.response.sendFile "snedfile/index.html"
+        req.response.sendFile "sendfile/index.html"
     }else {
 
     }
